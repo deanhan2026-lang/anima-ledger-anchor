@@ -1,0 +1,35 @@
+{
+  "schema": "anima-ledger-anchor/v1",
+  "node": "nyx-windows",
+  "published_at": "2026-10-22T16:31:19+08:00",
+  "pubkey_fingerprint_sha256": "3cb5996a65bf7f72f3252fb36f4e72974e43da1e9ea296c6966c726516612e37",
+  "pubkey_raw_hex": "6ef2386965deb47bfb61e95be9e426a7b716c7c3ca2978e8874376c0187824b2",
+  "ledger_entry_count": 17,
+  "ledger_head_hash": "75b06d23a863f580321d84a5a369785ffe3c272dcbbab1783135a6c5e2744d9f",
+  "ledger_file_sha256": "150dbeaab2fec465bc5daf76a990438f7173d393dbd437013b0c6ec82646bdc7",
+  "all_entry_hashes": [
+    "17f9c42cdc6927fe7ed4b9416c1d187e94b78283eaf3bb51344ab1337e8c28e7",
+    "a157bbf34c31c36f9bd2c6dd22da88373c16abd8bcee58e9a256759a5b78ed32",
+    "b413bb525bd1faebf71035a3de4f1c66e482959806c2c18d1113b161b75dc39f",
+    "4bdac30a8b5b80e9df9c0d5fffb7c886b8f6fee9a275e1f777d49aab2cdd865e",
+    "ae0080a0ca5fcae582726a7820efc2d450b05e30a14bfebcc6c8def3f3fd64ff",
+    "8fc3924bbe2bc3784ee272a6fc39e3fa87c5d87e2b1adfee6a96d8e0f4c8db87",
+    "0b902eea44494b6f5e2623befaad753f5585b265a57e6ebea8986511405725f5",
+    "efe7562e153554a102a43fd5f719b27c50ac9f6197f3c9cc56bb30110ca8d130",
+    "3071cce026dba83c6bc8c42698a299b56a8b19cda8231912d57b027eb1c95aa0",
+    "a3821c3a95db1a05936abfecdbab2b8b30c425e68525af0f2fccf53417448f46",
+    "ca1856849548c8a8954ce9d27c65bc7b6a7ddbe7d1c89016e3c5c7a58260a3f2",
+    "1cdf4583baf2015fc930d184a1bffd6ff3a72180db175fc3dce237fab10bfe25",
+    "3bbf12bac4a48972f89af4cf85b0c4955215c84097a08e71255f8d2d791d64e3",
+    "d87aaf20cdae2080193b4c282e716aa974d7b12ccea393b69121c417f9ebadb4",
+    "5c45e66cbe4592b35c83bbce8be2860e029b00386d8026d26dabeb00892c1dba",
+    "1ebfbeb03b5e6258cf07fc450310a9f384b38ddecd7f8d607ba06c042154d7df",
+    "75b06d23a863f580321d84a5a369785ffe3c272dcbbab1783135a6c5e2744d9f"
+  ],
+  "seq_range": [
+    1,
+    17
+  ],
+  "pinned_at_local": "2026-10-22T15:59:00",
+  "note": "仅含哈希与计数，不含任何账本正文。用途：把信任根指纹钉在我们不是唯一所有者的位置。"
+}
